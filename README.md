@@ -1,0 +1,1 @@
+# SmartCalc__Win10_x64_v2.0
