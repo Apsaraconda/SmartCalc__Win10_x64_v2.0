@@ -6,6 +6,10 @@ v2.0 provides type XeY exponential notation and fixes some bugs.
 
 The program structure has been changed in accordance with the MVC design pattern and Google Style requirements.
 
+## Requirements:
+- Windows 10 x64 operating system;
+- Qt version 6+;
+
 ## Basic properties:
 - Both integers and real numbers with a dot can be input into the program.
 - Calculating arbitrary bracketed arithmetic expressions in infix notation;
